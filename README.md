@@ -1,2 +1,4 @@
-# Predictive-Analytics
-A repo to store basic analysis codes
+# Predictive Analytics
+
+### Introduction
+This is a repository to store basic data-analysis codes.
