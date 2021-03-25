@@ -1,4 +1,2 @@
-# Predictive Analytics
-
-### Introduction
-This is a repository to store basic data-analysis codes.
+## Intro
+This directory holds some basic cheatsheets and tutorial files/notebooks. 
